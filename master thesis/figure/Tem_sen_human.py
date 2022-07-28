@@ -42,3 +42,4 @@ axs[0].legend(list(ssp126)[1:],loc = 'center right')
 axs[0].set_ylabel('Population increase(%) per unit temperature',fontweight = 'bold')
 
 plt.savefig(r'C:\Users\54021\OneDrive\桌面\桌面\meeting\figure\T_sentivity',dpi = 500)
+
